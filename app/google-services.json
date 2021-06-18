@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "790820486311",
+    "firebase_url": "https://employer-reviews-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "employer-reviews",
+    "storage_bucket": "employer-reviews.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790820486311:android:4b57ff893d69a7cb78ef82",
+        "android_client_info": {
+          "package_name": "com.wixsite.mupbam1.resume.newfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790820486311-hq0t6jjov5thvmckmkvk1nfujglmq02h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9MsZ84ZVkAU1JmOI4maysCzE_j_Swc8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790820486311-hq0t6jjov5thvmckmkvk1nfujglmq02h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
